@@ -1,5 +1,5 @@
-#HEAD
+# HEAD
 
-##SUBHEAD
+## SUBHEAD
 
-##another heading but smaller!
+## another heading but smaller!
